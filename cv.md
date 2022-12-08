@@ -16,7 +16,8 @@ A 19-year-old promising young student who is attending BSU and wants to expand h
 * EViews
 
 ## **Code Example**
-```function hello() {
+```
+function hello() {
   alert( ""Это мой код..."" );
 }
 
